@@ -22,6 +22,8 @@ This package allows you to use syntax highlighting for Spike2 script language in
 // Spike2
 atom-text-editor.editor {
   .syntax--source.syntax--spike2 {
+    color: black;
+    
     .syntax--comment {
       color: #008000;
       font-style: normal;
