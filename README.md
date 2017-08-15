@@ -45,10 +45,14 @@ atom-text-editor.editor {
 }
 ```
 
+### Screen shot (macOS)
+
+![screen shot](screenshot.png)
+
 ## Change log
 
 + Currently only supports syntax coloring.
-+ Code folding is not supported.
++ Code folding is not supported (yet).
 
 
 
