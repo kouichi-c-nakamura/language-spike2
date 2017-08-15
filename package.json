@@ -1,6 +1,6 @@
 {
   "name": "language-spike2",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Spike2 script language support for Atom",
   "engines": {
     "atom": "*"
