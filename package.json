@@ -1,0 +1,19 @@
+{
+  "name": "language-spike2",
+  "version": "0.0.0",
+  "description": "Spike2 script language support for Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kouichi-c-nakamura/language-spike2"
+  },
+  "keywords": [
+    "Spike2",
+    "CED Spike2"
+  ],
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
