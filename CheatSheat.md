@@ -14,25 +14,19 @@
 
 https://www.sitepoint.com/how-to-write-a-syntax-highlighting-package-for-atom/
 
-`/Users/kouichi/.atom`
+`/Users/<usename>/.atom`
 
 
 
-`/Users/kouichi/.atom/Packages/language-spike2/package.json`
+`/Users/<usename>/.atom/Packages/language-spike2/package.json`
 
-`/Users/kouichi/.atom/Packages/language-spike2/grammaers/spike2.cson`
+`/Users/<usename>/.atom/Packages/language-spike2/grammaers/spike2.cson`
 
 + **Back slash `\` needs to be escaped by `\\`**
 
 
 
 **Rules for class names**: http://manual.macromates.com/en/language_grammars.html#naming_conventions
-
-------
-
-
-
-
 
 
 

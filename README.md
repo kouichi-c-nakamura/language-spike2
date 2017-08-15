@@ -6,6 +6,13 @@ This package allows you to use syntax highlighting for Spike2 script language in
 
 
 
+## Manual installation
+
+1. Download the folder and place it under `C:\Users\<username>\.atom\packages\` (Windows) or `/Users/<usename>/.atom/Packages/` (macOS)
+2. (Re)launch Atom.
+
+
+
 ## Syntax highlighting in Spike2 style
 
 Add the following Less code to the file `styles.less` (menu: **Atom** > **Stylesheet…**)
