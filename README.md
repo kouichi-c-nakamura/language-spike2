@@ -15,16 +15,15 @@ This package allows you to use syntax highlighting for Spike2 script language in
 
 ## Syntax highlighting in Spike2 style
 
-Add the following Less code to the file `styles.less` (menu: **Atom** > **Stylesheet…**)
-
-The Atom editor should look like Spike2 script editor by this.
+1. Open the `styles.less` file from menu **File** > **Stylesheet...** (Windows), or **Atom** > **Stylesheet…** (macOS)
+2. Add the following Less code to the file `styles.less` .The Atom editor should look like Spike2 script editor by this.
 
 ```less
 // Spike2
 atom-text-editor.editor {
   .syntax--source.syntax--spike2 {
     .syntax--comment {
-      color: #007700;
+      color: #008000;
       font-style: normal;
     }
     .syntax--string {
@@ -32,9 +31,10 @@ atom-text-editor.editor {
     }
     .syntax--keyword {
       color: blue;
+      font-weight: normal;
     }
     .syntax--support.syntax--function {
-      color: #000077;
+      color: #000080;
     }
     .syntax--constant.syntax--numeric {
       color: red;
@@ -42,8 +42,6 @@ atom-text-editor.editor {
   }
 }
 ```
-
-
 
 ## Change log
 
