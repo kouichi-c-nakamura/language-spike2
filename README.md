@@ -6,6 +6,21 @@ This package allows you to use syntax highlighting for Spike2 script language in
 
 
 
+
+
+## GUI installation
+
+1. Atom > Preferences… > Install pane > type`spike2` in the window and search for Packages
+2. Click the blue Install button.
+
+
+
+## Command line installation
+
+On Termina,l type `apm install language-spike2`
+
+
+
 ## Manual installation
 
 1. Download the folder and place it under `C:\Users\<username>\.atom\packages\` (Windows) or `/Users/<usename>/.atom/Packages/` (macOS)
