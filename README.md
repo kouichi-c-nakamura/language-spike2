@@ -35,7 +35,9 @@ On Termina,l type `apm install language-spike2`
 
 ```less
 // Spike2
-atom-text-editor.editor {
+atom-text-editor[data-grammar="source spike2"].editor {
+  font-family: "Consolas"; // custoum font-setting
+  
   .syntax--source.syntax--spike2 {
     color: black;
     
@@ -76,7 +78,6 @@ atom-text-editor.editor {
 
   * `func` and `proc` are now labeled as class `syntax--storage.syntax--type.syntax--function.syntax--func.syntax--spike2'` and  `syntax--storage.syntax--type.syntax--function.syntax--proc.syntax--spike2'`, respectively. These are following the conventions. Need to amend the stylesheet `styles.less`accordingly.
 
-    
 
 
 

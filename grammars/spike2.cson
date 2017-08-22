@@ -74,7 +74,7 @@ repository:
       }
     ]
 
-  proc:
+  func:
     patterns: [
       {
         match: "^\\s*\\b(?i)(func)\\s+(\\w+[%$]{0,1})\\s*\\("
