@@ -1185,6 +1185,9 @@ repository:
         name: "support.function.spike2"
       }
       {
+        match: "(?<=\\W|^)MarkShow(?=\\()"
+        name: "support.function.spike2"
+      }      {
         match: "(?<=\\W|^)MATDet(?=\\()"
         name: "support.function.spike2"
       }
