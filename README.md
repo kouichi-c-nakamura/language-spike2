@@ -46,7 +46,7 @@ atom-text-editor.editor {
     .syntax--string {
       color: red;
     }
-    .syntax--keyword {
+    .syntax--keyword, .syntax--keyword, .syntax--storage.syntax--type.syntax--function {
       color: blue;
       font-weight: normal;
     }
@@ -67,7 +67,16 @@ atom-text-editor.editor {
 ## Change log
 
 + Currently only supports syntax coloring.
+
 + Code folding is not supported (yet).
+
+  ​
+
++ ### 0.3.0
+
+  * `func` and `proc` are now labeled as class `syntax--storage.syntax--type.syntax--function.syntax--func.syntax--spike2'` and  `syntax--storage.syntax--type.syntax--function.syntax--proc.syntax--spike2'`, respectively. These are following the conventions. Need to amend the stylesheet `styles.less`accordingly.
+
+    
 
 
 
