@@ -75,6 +75,10 @@ atom-text-editor[data-grammar="source spike2"].editor {
   ​
 
 
+### 0.4.1
+
++   Builtin functions like `Print$()` is now properly recognized.
+
 ### 0.3.1
 
 + New functions in Spike2 version 8 have been included.
