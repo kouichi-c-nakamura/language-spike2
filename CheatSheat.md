@@ -112,3 +112,12 @@ repository: # An array of rules. If you're going to be referencing one bit of co
           name: ''
     }
 ```
+
+
+
+# publish
+
+
+
+1.  Open `Terminal` and go to the repository using `cd` command
+2.  use `apm publish patch` , `apm publish minor`, or `apm publish major` with GitHub login details
