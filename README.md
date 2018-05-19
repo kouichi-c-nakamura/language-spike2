@@ -72,8 +72,11 @@ atom-text-editor[data-grammar="source spike2"].editor {
 
 + Code folding is not supported (yet).
 
-  ​
+  
 
+### 0.4.2
+
++ New functions in Spike2 version 9 have been included.
 
 ### 0.4.1
 

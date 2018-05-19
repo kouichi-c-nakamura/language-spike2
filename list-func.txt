@@ -3,6 +3,7 @@ App
 ArrAdd
 ArrConst
 ArrConv
+ArrCWT
 ArrDiff
 ArrDiv
 ArrDivR
@@ -11,7 +12,9 @@ ArrFFT
 ArrFilt
 ArrHist
 ArrIntgl
+ArrMapImage
 ArrMul
+ArrRange
 ArrSort
 ArrSpline
 ArrStats
@@ -35,6 +38,7 @@ BurstStats
 BWrite
 BWriteSize
 Ceil
+Chan
 Chan$
 ChanCalibrate
 ChanColour
@@ -142,6 +146,7 @@ DlgInteger
 DlgLabel
 DlgList
 DlgMouse
+DlgProgress
 DlgReal
 DlgShow
 DlgSlider
@@ -423,6 +428,7 @@ SampleWrite
 ScriptBar
 ScriptRun
 Seconds
+Selection
 Selection$
 SerialClose
 SerialCount
@@ -543,6 +549,7 @@ XYKey
 XYOffset
 XYRange
 XYSetChan
+XYSetData
 XYSize
 XYSort
 YAxis
