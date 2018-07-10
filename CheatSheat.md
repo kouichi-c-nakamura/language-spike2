@@ -121,3 +121,4 @@ repository: # An array of rules. If you're going to be referencing one bit of co
 
 1.  Open `Terminal` and go to the repository using `cd` command
 2.  use `apm publish patch` , `apm publish minor`, or `apm publish major` with GitHub login details
+3.  https://discuss.atom.io/t/cannot-use-apm-publish-minor-the-header-content-contains-invalid-characters/46283/5
