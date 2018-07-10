@@ -91,6 +91,10 @@ atom-text-editor[data-grammar="source spike2"].editor {
 
 ### 0.4.0
 
++ escaped `$` character for builtin functions like `Print$()`
+
+### 0.5.0
+
 * Code folding is now supported.
 
 
