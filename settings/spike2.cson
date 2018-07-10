@@ -1,0 +1,6 @@
+".source.spike2":
+  editor:
+    commentStart: "' "
+    increaseIndentPattern: "^\\s*(func|proc|if|else|docase|repeat|while|fory).*"
+    decreaseIndentPattern: "^\\s*\\b(end\\w*|endif|else|endcase|case|until|wend|next)\\b"
+    foldEndPattern: "^\\s*(end|endif|endcase|until|wend|next)\\b.*$"
